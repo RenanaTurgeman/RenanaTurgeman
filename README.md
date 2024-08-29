@@ -6,7 +6,7 @@
 
 ## 🌐 Contact
 
-- **Email:** [renanaturgeman058@gmail.com](mailto:renanaturgeman058@gmail.com)
+- **Email:** [turgemanrenana@gmail.com](mailto:turgemanrenana@gmail.com)
 - **LinkedIn:** [Renana Turgeman](https://www.linkedin.com/in/renana-turgeman-1b7b18277/)
 
 ## 📊 GitHub Stats
