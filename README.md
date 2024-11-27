@@ -1,6 +1,6 @@
 # Renana Turgeman
 
-### Third Year Computer Science Student at Ariel University
+### Computer Science Graduate from Ariel University
 
 [![Visitor Count](https://komarev.com/ghpvc/?username=RenanaTurgeman&color=brightgreen)](https://github.com/RenanaTurgeman)
 
